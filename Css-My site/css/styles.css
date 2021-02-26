@@ -1,0 +1,144 @@
+
+body{
+  margin:0;
+  padding: 0;
+  font-family: 'Merriweather', serif;
+text-align: center;
+color: #40514e;
+
+}
+h1{
+  font-family: 'Sacramento', cursive;
+  margin:0;
+  margin: 50px 0 0;
+  font-size: 5.625rem;
+  color: #66BFBF;
+
+
+}
+
+.myButton {
+	background-color:#7892c2;
+	border-radius:28px;
+	border:1px solid #4e6096;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family: 'Merriweather', serif;
+	font-size:17px;
+	padding:16px 31px;
+	text-decoration:none;
+	text-shadow:0 1px 0 #283966;
+  margin:50px
+
+}
+.myButton:hover {
+	background-color:#476e9e;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+.boyp{
+  text-decoration: underline;
+}
+a{
+  color: #11999E;
+  padding: 20px;
+  text-decoration: none;
+  font-size: 1rem;
+}
+
+a:hover {
+  color: red;
+}
+h2{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+
+}
+
+.boy{
+  border-radius: 50%;
+  height: 250px;
+}
+
+.coding{
+  border-radius: 50%;
+  width:20%;
+  height: 20%;
+margin:30px;
+  float: left;
+}
+
+.soccer{
+  border-radius: 50%;
+    width:40%;
+    float: right;
+}
+
+h3{
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+
+.top-container{
+  text-align: center;
+  position: relative;
+  padding: 100px;
+  background-color: #e4f9f5;
+  margin:0;
+}
+.top-cloud{
+  position: absolute;
+  right:300px;
+  top:50px;
+ }
+
+
+.bottom-cloud{
+  position: absolute;
+  left: 300px;
+  top: 300px
+ }
+.skill-row{
+  width:50%;
+  margin: 100px  auto ;
+  text-align: left;
+  line-height: 2;
+}
+
+.dots{
+  width:10%;
+  border-top:10px dotted;
+  color:#eaf6f6;
+margin: 100px auto;
+border-bottom: none;
+border-right: none;
+border-left: none;
+}
+
+.middle-container{
+  margin: 100px;
+}
+.bottom-container{
+  background-color: #66BFBF;
+  margin: 0;
+  padding:50px;
+
+}
+.credit{
+padding-bottom: 30px;
+color: white;
+font-size: 0.75rem;
+}
+
+p{
+  margin-bottom: 0;
+}
+
+.footer-link{
+  padding-top:50px;
+}
